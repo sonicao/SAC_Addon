@@ -2,7 +2,7 @@
 
   let tmpl = document.createElement('template');
   tmpl.innerHTML = `
-      <link rel="stylesheet" type="text/css" href="https://github.wdf.sap.corp/pages/d023588/orca_customWidget_samples/tickerText/style.css"/>
+      <link rel="stylesheet" type="text/css" href="https://raw.githack.com/sonicao/SAC_Addon/master/style.css"/>
       <div class="ticker">
         <p id="tickerHeader" > Add Ticker Text </p>
       </div>
